@@ -11,7 +11,7 @@ Projeto desenvolvido como desafio durante o curso de desenvolvimento iOS da Udem
 
 Este é um repositório público exemplificando um layout de um aplicativo para calculadora, usando o autolayout. 
 
-<img src="https://i.ibb.co/QKFPVBX/Simulator-Screen-Shot-i-Phone-13-Pro-2022-07-17-at-16-56-22.png" width="500" height="1082" />
+<img src="https://i.ibb.co/QKFPVBX/Simulator-Screen-Shot-i-Phone-13-Pro-2022-07-17-at-16-56-22.png" width="300" height="649" />
 
 ## Requerimentos
 
