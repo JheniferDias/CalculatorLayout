@@ -11,6 +11,8 @@ Projeto desenvolvido como desafio durante o curso de desenvolvimento iOS da Udem
 
 Este é um repositório público exemplificando um layout de um aplicativo para calculadora, usando o autolayout. 
 
+![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+
 ## Requerimentos
 
 - Xcode 13.1
